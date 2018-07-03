@@ -1,658 +1,172 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
-  <graph edgedefault="directed">
-    <node id="rcl 14872 stf" />
-    <node id="sumulas vinculantes stf" />
-    <node id="psv 88 stf" />
-    <node id="re 298694 stf" />
-    <node id="re 584608 stf" />
-    <node id="re 545503 stf" />
-    <node id="sum. stf" />
-    <node id="ai 848332 stf" />
-    <node id="sum. vinc. stf" />
-    <node id="adi 2418 stf" />
-    <node id="rcl 14056 stf" />
-    <node id="adi 2828 stf" />
-    <node id="rcl 10272 stf" />
-    <node id="ai 591414 stf" />
-    <node id="rcl 4335 stf" />
-    <node id="re 609527 stf" />
-    <node id="hc 82959 stf" />
-    <node id="re 614232 stf" />
-    <node id="ao 20 stf" />
-    <node id="aresp 506742 stj" />
-    <node id="rms 21512 stf" />
-    <node id="adi 799 stf" />
-    <node id="are 834534 stf" />
-    <node id="are 800721 stf" />
-    <node id="are 841799 stf" />
-    <node id="re 639866 stf" />
-    <node id="adi 3510 stf" />
-    <node id="adpf 378 stf" />
-    <node id="ai 703269 stf" />
-    <node id="adi 3558 stf" />
-    <node id="rcl 11022 stf" />
-    <node id="aresp 53100 stj" />
-    <node id="ai 163047 stf" />
-    <node id="se 12 stj" />
-    <node id="ss 3772 stf" />
-    <node id="adi 3819 stf" />
-    <node id="re 546525 stf" />
-    <node id="re 207928 stf" />
-    <node id="pet 4837 stf" />
-    <node id="ms 24368 stf" />
-    <node id="ext 1146 stf" />
-    <node id="ms 30820 stf" />
-    <node id="se 18 stj" />
-    <node id="adi 3794 stf" />
-    <node id="ap 528 stf" />
-    <node id="ac 738 stf" />
-    <node id="cc 7159 stf" />
-    <node id="re 855178 stf" />
-    <node id="ms 21564 stf" />
-    <node id="re 255785 stf" />
-    <node id="ms 25647 stf" />
-    <node id="adi 4876 stf" />
-    <node id="se 2 stj" />
-    <node id="adi 2497 stf" />
-    <node id="mi 1311 stf" />
-    <node id="ai 547827 stf" />
-    <node id="re 569019 stf" />
-    <node id="adi 3148 stf" />
-    <node id="adi 3147 stf" />
-    <node id="adi 2982 stf" />
-    <node id="re 476081 stf" />
-    <node id="re 513713 stf" />
-    <node id="adi 3619 stf" />
-    <node id="adi 1498 stf" />
-    <node id="aresp 754951 stj" />
-    <node id="re 434640 stf" />
-    <node id="adi 1057 stf" />
-    <node id="are 923172 stf" />
-    <node id="hc 88707 stf" />
-    <node id="ai 192995 stf" />
-    <node id="hc 73721 stf" />
-    <node id="rhc 93248 stf" />
-    <node id="hc 74562 stf" />
-    <node id="ai 414167 stf" />
-    <node id="ai 339607 stf" />
-    <node id="ai 215885 stf" />
-    <node id="ai 161396 stf" />
-    <node id="hc 66954 stf" />
-    <node id="hc 70193 stf" />
-    <node id="ai 153310 stf" />
-    <node id="re 257533 stf" />
-    <node id="hc 68219 stf" />
-    <node id="ai 447774 stf" />
-    <node id="hc 92812 stf" />
-    <node id="hc 67531 stf" />
-    <node id="hc 82050 stf" />
-    <node id="hc 67271 stf" />
-    <node id="hc 90938 stf" />
-    <node id="ai 307711 stf" />
-    <node id="ai 427186 stf" />
-    <node id="hc 68658 stf" />
-    <node id="adpf 388 stf" />
-    <node id="re 738577 stf" />
-    <node id="adpf 12 stf" />
-    <node id="re 740813 stf" />
-    <node id="adi 3463 stf" />
-    <node id="adc 12 stf" />
-    <node id="ms 26603 stf" />
-    <node id="adi 3839 stf" />
-    <node id="adi 2836 stf" />
-    <node id="adpf 13 stf" />
-    <node id="adpf 33 stf" />
-    <node id="adpf 314 stf" />
-    <node id="adi 3838 stf" />
-    <node id="adi 2534 stf" />
-    <node id="re 676733 stf" />
-    <node id="ms 26325 stf" />
-    <node id="rms 15156 stj" />
-    <node id="se 11 stj" />
-    <node id="adpf 126 stf" />
-    <node id="re 742055 stf" />
-    <node id="re 757719 stf" />
-    <node id="ao 1 stf" />
-    <node id="adi 3823 stf" />
-    <node id="adi 3298 stf" />
-    <node id="re 816759 stf" />
-    <node id="adi 3574 stf" />
-    <node id="adi 129 stf" />
-    <node id="se 14 stj" />
-    <node id="adpf 101 stf" />
-    <node id="hc 71834 stf" />
-    <node id="ms 26595 stf" />
-    <node id="ai 768852 stf" />
-    <node id="rms 32504 stf" />
-    <node id="adpf 72 stf" />
-    <node id="adc 1 stf" />
-    <node id="adpf 54 stf" />
-    <node id="ms 26584 stf" />
-    <node id="adi 3831 stf" />
-    <node id="adpf 46 stf" />
-    <node id="re 866590 stf" />
-    <node id="are 691595 stf" />
-    <node id="ai 717821 stf" />
-    <node id="ai 802331 stf" />
-    <node id="are 696347 stf" />
-    <node id="are 696263 stf" />
-    <node id="ai 842478 stf" />
-    <node id="are 891473 stf" />
-    <node id="hc 261604 stj" />
-    <node id="ai 841690 stf" />
-    <node id="are 639228 stf" />
-    <node id="ai 786044 stf" />
-    <node id="hc 110974 stf" />
-    <node id="hc 118714 stf" />
-    <node id="re 550505 stf" />
-    <node id="hc 116767 stf" />
-    <node id="ai 847452 stf" />
-    <node id="ai 805701 stf" />
-    <node id="re 140370 stf" />
-    <node id="hc 126560 stf" />
-    <node id="hc 85185 stf" />
-    <node id="hc 79776 stf" />
-    <node id="hc 88229 stf" />
-    <node id="hc 85826 stf" />
-    <node id="hc 79748 stf" />
-    <node id="hc 54663 stj" />
-    <node id="hc 79775 stf" />
-    <node id="hc 84014 stf" />
-    <node id="rhc 54663 stj" />
-    <node id="hc 79238 stf" />
-    <node id="hc 86213 stf" />
-    <node id="are 851536 stf" />
-    <node id="rhc 106346 stf" />
-    <node id="rhc 91553 stf" />
-    <node id="hc 96072 stf" />
-    <node id="hc 104206 stf" />
-    <node id="rhc 90197 stf" />
-    <node id="rcl 8853 stf" />
-    <node id="adi 1662 stf" />
-    <node id="hc 81632 stf" />
-    <node id="rcl 6811 stf" />
-    <node id="rcl 2732 stf" />
-    <node id="rcl 3314 stf" />
-    <node id="rcl 17153 stf" />
-    <node id="ms 26384 stf" />
-    <node id="rcl 16419 stf" />
-    <node id="rcl 8668 stf" />
-    <node id="hc 91089 stf" />
-    <node id="rcl 1852 stf" />
-    <node id="rcl 4535 stf" />
-    <node id="ms 27405 stf" />
-    <node id="rcl 15969 stj" />
-    <node id="rcl 4049 stf" />
-    <node id="pet 2515 stf" />
-    <node id="rcl 5754 stf" />
-    <node id="hc 84078 stf" />
-    <node id="rcl 4733 stf" />
-    <node id="adi 1127 stf" />
-    <node id="rcl 9584 stf" />
-    <node id="hc 96539 stf" />
-    <node id="hc 90707 stf" />
-    <node id="hc 119477 stj" />
-    <node id="rcl 4703 stf" />
-    <node id="hc 35820 stj" />
-    <node id="adi 1002 stf" />
-    <node id="rcl 5826 stf" />
-    <node id="hc 116384 stf" />
-    <node id="rcl 14267 stf" />
-    <node id="aco 808 stf" />
-    <node id="rcl 5192 stf" />
-    <node id="rcl 4756 stf" />
-    <node id="adi 1105 stf" />
-    <node id="re 641320 stf" />
-    <node id="hc 72643 stf" />
-    <node id="adi 2087 stf" />
-    <node id="adi 5240 stf" />
-    <node id="mi 712 stf" />
-    <node id="mi 543 stf" />
-    <node id="hc 76930 stf" />
-    <node id="re 592581 stf" />
-    <node id="adi 1344 stf" />
-    <node id="adi 3046 stf" />
-    <node id="mi 283 stf" />
-    <node id="mc 2332 stj" />
-    <node id="adpf 347 stf" />
-    <node id="adi 3324 stf" />
-    <node id="ms 22307 stj" />
-    <node id="hc 75299 stf" />
-    <node id="hc 93596 stf" />
-    <node id="hc 13526 stj" />
-    <node id="adi 2596 stf" />
-    <node id="mi 670 stf" />
-    <node id="com 15 stj" />
-    <node id="hc 48629 stj" />
-    <node id="adi 1668 stf" />
-    <node id="rms 22307 stf" />
-    <node id="adi 1797 stf" />
-    <node id="adi 2652 stf" />
-    <node id="adi 1946 stf" />
-    <node id="pet 3388 stf" />
-    <node id="hc 13897 stj" />
-    <node id="re 405579 stf" />
-    <node id="sum. stj" />
-    <node id="hc 66806 stf" />
-    <node id="adi 2209 stf" />
-    <node id="hc 94526 stf" />
-    <node id="adi 5170 stf" />
-    <node id="adi 2332 stf" />
-    <node id="adi 2405 stf" />
-    <node id="adi 3105 stf" />
-    <node id="rhc 18802 stj" />
-    <node id="psv 57 stf" />
-    <node id="hc 94829 stf" />
-    <node id="rhc 65127 stj" />
-    <node id="hc 94810 stf" />
-    <node id="ao 21 stf" />
-    <node id="if 5129 stf" />
-    <node id="resp 574511 stj" />
-    <node id="hc 87985 stf" />
-    <node id="mi 708 stf" />
-    <node id="hc 110892 stf" />
-    <node id="re 580252 stf" />
-    <node id="hc 122791 stf" />
-    <node id="hc 82625 stf" />
-    <node id="resp 1208525 stj" />
-    <node id="hc 110438 stf" />
-    <node id="hc 99452 stf" />
-    <node id="com 40 stj" />
-    <node id="hc 92839 stf" />
-    <node id="hc 111076 stf" />
-    <node id="resp 1411 stj" />
-    <node id="hc 115893 stf" />
-    <node id="hc 150038 stf" />
-    <node id="hc 84097 stf" />
-    <node id="hc 109043 stf" />
-    <node id="ms 1 stj" />
-    <node id="ms 40 stj" />
-    <node id="hc 72658 stf" />
-    <node id="resp 1390977 stj" />
-    <node id="ms 11343 stj" />
-    <node id="hc 115787 stf" />
-    <node id="ao 16 stf" />
-    <node id="ms 4 stj" />
-    <node id="hc 92776 stf" />
-    <node id="hc 180104 stj" />
-    <node id="hc 92870 stf" />
-    <node id="inq 3983 stf" />
-    <node id="inq 3719 stf" />
-    <node id="as 67 stf" />
-    <node id="re 213937 stf" />
-    <node id="pet 5245 stf" />
-    <node id="ac 3865 stf" />
-    <node id="inq 3507 stf" />
-    <node id="hc 116653 stf" />
-    <node id="ac 4044 stf" />
-    <node id="inq 2191 stf" />
-    <node id="rcl 22009 stf" />
-    <node id="hc 127483 stf" />
-    <node id="hc 87324 stf" />
-    <node id="inq 2606 stf" />
-    <node id="inq 1769 stf" />
-    <node id="rhc 27628 stj" />
-    <node id="ap 470 stf" />
-    <node id="inq 3276 stf" />
-    <node id="hc 79244 stf" />
-    <node id="ap 305 stf" />
-    <node id="inq 3113 stf" />
-    <node id="hc 94034 stf" />
-    <node id="rcl 21419 stf" />
-    <node id="inq 3515 stf" />
-    <node id="se 7 stj" />
-    <node id="inq 672 stf" />
-    <node id="com 2 stj" />
-    <node id="adi 1021 stf" />
-    <node id="hc 79812 stf" />
-    <node id="ap 465 stf" />
-    <node id="inq 3966 stf" />
-    <node id="ap 853 stf" />
-    <node id="hc 126022 stf" />
-    <node id="hc 75226 stf" />
-    <node id="inq 1622 stf" />
-    <node id="ao 4 stf" />
-    <node id="hc 94387 stf" />
-    <node id="rcl 7913 stj" />
-    <node id="hc 73371 stf" />
-    <node id="pet 5700 stj" />
-    <node id="are 766977 stf" />
-    <node id="hc 125969 stf" />
-    <node id="hc 103282 stf" />
-    <node id="hc 312269 stj" />
-    <node id="hc 114867 stf" />
-    <edge source="rcl 14872 stf" target="sumulas vinculantes stf" />
-    <edge source="rcl 14872 stf" target="psv 88 stf" />
-    <edge source="rcl 14872 stf" target="re 298694 stf" />
-    <edge source="rcl 14872 stf" target="re 584608 stf" />
-    <edge source="rcl 14872 stf" target="re 545503 stf" />
-    <edge source="rcl 14872 stf" target="sum. stf" />
-    <edge source="rcl 14872 stf" target="ai 848332 stf" />
-    <edge source="rcl 14872 stf" target="sum. vinc. stf" />
-    <edge source="rcl 14872 stf" target="adi 2418 stf" />
-    <edge source="rcl 14872 stf" target="rcl 14056 stf" />
-    <edge source="rcl 14872 stf" target="adi 2828 stf" />
-    <edge source="rcl 14872 stf" target="rcl 10272 stf" />
-    <edge source="rcl 14872 stf" target="ai 591414 stf" />
-    <edge source="rcl 14872 stf" target="rcl 4335 stf" />
-    <edge source="rcl 14872 stf" target="re 609527 stf" />
-    <edge source="rcl 14872 stf" target="hc 82959 stf" />
-    <edge source="rcl 14872 stf" target="re 614232 stf" />
-    <edge source="rcl 14872 stf" target="ao 20 stf" />
-    <edge source="rcl 14872 stf" target="aresp 506742 stj" />
-    <edge source="rcl 14872 stf" target="rms 21512 stf" />
-    <edge source="rcl 14872 stf" target="adi 799 stf" />
-    <edge source="rcl 14872 stf" target="are 834534 stf" />
-    <edge source="rcl 14872 stf" target="are 800721 stf" />
-    <edge source="rcl 14872 stf" target="are 841799 stf" />
-    <edge source="rcl 14872 stf" target="re 639866 stf" />
-    <edge source="rcl 14872 stf" target="adi 3510 stf" />
-    <edge source="adpf 378 stf" target="ai 703269 stf" />
-    <edge source="adpf 378 stf" target="adi 3558 stf" />
-    <edge source="adpf 378 stf" target="rcl 11022 stf" />
-    <edge source="adpf 378 stf" target="aresp 53100 stj" />
-    <edge source="adpf 378 stf" target="ai 163047 stf" />
-    <edge source="adpf 378 stf" target="se 12 stj" />
-    <edge source="adpf 378 stf" target="ss 3772 stf" />
-    <edge source="adpf 378 stf" target="adi 3819 stf" />
-    <edge source="adpf 378 stf" target="re 546525 stf" />
-    <edge source="adpf 378 stf" target="re 207928 stf" />
-    <edge source="adpf 378 stf" target="pet 4837 stf" />
-    <edge source="adpf 378 stf" target="ms 24368 stf" />
-    <edge source="adpf 378 stf" target="ext 1146 stf" />
-    <edge source="adpf 378 stf" target="ms 30820 stf" />
-    <edge source="adpf 378 stf" target="se 18 stj" />
-    <edge source="adpf 378 stf" target="adi 3794 stf" />
-    <edge source="adpf 378 stf" target="ap 528 stf" />
-    <edge source="adpf 378 stf" target="ac 738 stf" />
-    <edge source="adpf 378 stf" target="cc 7159 stf" />
-    <edge source="adpf 378 stf" target="re 855178 stf" />
-    <edge source="adpf 378 stf" target="ms 21564 stf" />
-    <edge source="adpf 378 stf" target="re 255785 stf" />
-    <edge source="adpf 378 stf" target="ms 25647 stf" />
-    <edge source="adpf 378 stf" target="adi 4876 stf" />
-    <edge source="adpf 378 stf" target="se 2 stj" />
-    <edge source="adpf 378 stf" target="adi 2497 stf" />
-    <edge source="adpf 378 stf" target="mi 1311 stf" />
-    <edge source="adpf 378 stf" target="ai 547827 stf" />
-    <edge source="adpf 378 stf" target="re 569019 stf" />
-    <edge source="adpf 378 stf" target="adi 3148 stf" />
-    <edge source="adpf 378 stf" target="adi 3147 stf" />
-    <edge source="adpf 378 stf" target="adi 2982 stf" />
-    <edge source="adpf 378 stf" target="re 476081 stf" />
-    <edge source="adpf 378 stf" target="re 513713 stf" />
-    <edge source="adpf 378 stf" target="adi 3619 stf" />
-    <edge source="adpf 378 stf" target="adi 1498 stf" />
-    <edge source="adpf 378 stf" target="aresp 754951 stj" />
-    <edge source="adpf 378 stf" target="re 434640 stf" />
-    <edge source="adpf 378 stf" target="adi 1057 stf" />
-    <edge source="are 923172 stf" target="hc 88707 stf" />
-    <edge source="are 923172 stf" target="ai 192995 stf" />
-    <edge source="are 923172 stf" target="hc 73721 stf" />
-    <edge source="are 923172 stf" target="rhc 93248 stf" />
-    <edge source="are 923172 stf" target="hc 74562 stf" />
-    <edge source="are 923172 stf" target="sum. stf" />
-    <edge source="are 923172 stf" target="ai 414167 stf" />
-    <edge source="are 923172 stf" target="ai 339607 stf" />
-    <edge source="are 923172 stf" target="ai 215885 stf" />
-    <edge source="are 923172 stf" target="ai 161396 stf" />
-    <edge source="are 923172 stf" target="hc 66954 stf" />
-    <edge source="are 923172 stf" target="hc 70193 stf" />
-    <edge source="are 923172 stf" target="ai 153310 stf" />
-    <edge source="are 923172 stf" target="re 257533 stf" />
-    <edge source="are 923172 stf" target="hc 68219 stf" />
-    <edge source="are 923172 stf" target="ai 447774 stf" />
-    <edge source="are 923172 stf" target="hc 92812 stf" />
-    <edge source="are 923172 stf" target="hc 67531 stf" />
-    <edge source="are 923172 stf" target="hc 82050 stf" />
-    <edge source="are 923172 stf" target="hc 67271 stf" />
-    <edge source="are 923172 stf" target="hc 90938 stf" />
-    <edge source="are 923172 stf" target="ai 307711 stf" />
-    <edge source="are 923172 stf" target="ai 427186 stf" />
-    <edge source="are 923172 stf" target="hc 68658 stf" />
-    <edge source="adpf 388 stf" target="re 738577 stf" />
-    <edge source="adpf 388 stf" target="adpf 12 stf" />
-    <edge source="adpf 388 stf" target="re 740813 stf" />
-    <edge source="adpf 388 stf" target="adi 3463 stf" />
-    <edge source="adpf 388 stf" target="adc 12 stf" />
-    <edge source="adpf 388 stf" target="ms 26603 stf" />
-    <edge source="adpf 388 stf" target="adi 3839 stf" />
-    <edge source="adpf 388 stf" target="adi 2836 stf" />
-    <edge source="adpf 388 stf" target="adpf 13 stf" />
-    <edge source="adpf 388 stf" target="adpf 33 stf" />
-    <edge source="adpf 388 stf" target="adpf 314 stf" />
-    <edge source="adpf 388 stf" target="adi 3838 stf" />
-    <edge source="adpf 388 stf" target="adi 2534 stf" />
-    <edge source="adpf 388 stf" target="re 676733 stf" />
-    <edge source="adpf 388 stf" target="ms 26325 stf" />
-    <edge source="adpf 388 stf" target="rms 15156 stj" />
-    <edge source="adpf 388 stf" target="se 11 stj" />
-    <edge source="adpf 388 stf" target="adpf 126 stf" />
-    <edge source="adpf 388 stf" target="re 742055 stf" />
-    <edge source="adpf 388 stf" target="re 757719 stf" />
-    <edge source="adpf 388 stf" target="ao 1 stf" />
-    <edge source="adpf 388 stf" target="adi 3823 stf" />
-    <edge source="adpf 388 stf" target="adi 3298 stf" />
-    <edge source="adpf 388 stf" target="re 816759 stf" />
-    <edge source="adpf 388 stf" target="adi 3574 stf" />
-    <edge source="adpf 388 stf" target="adi 129 stf" />
-    <edge source="adpf 388 stf" target="se 14 stj" />
-    <edge source="adpf 388 stf" target="adpf 378 stf" />
-    <edge source="adpf 388 stf" target="adpf 101 stf" />
-    <edge source="adpf 388 stf" target="hc 71834 stf" />
-    <edge source="adpf 388 stf" target="ms 26595 stf" />
-    <edge source="adpf 388 stf" target="ai 768852 stf" />
-    <edge source="adpf 388 stf" target="rms 32504 stf" />
-    <edge source="adpf 388 stf" target="adpf 72 stf" />
-    <edge source="adpf 388 stf" target="adc 1 stf" />
-    <edge source="adpf 388 stf" target="adpf 54 stf" />
-    <edge source="adpf 388 stf" target="ms 26584 stf" />
-    <edge source="adpf 388 stf" target="adi 3831 stf" />
-    <edge source="adpf 388 stf" target="adpf 46 stf" />
-    <edge source="re 866590 stf" target="are 691595 stf" />
-    <edge source="re 866590 stf" target="sum. stf" />
-    <edge source="re 866590 stf" target="ai 717821 stf" />
-    <edge source="re 866590 stf" target="ai 802331 stf" />
-    <edge source="re 866590 stf" target="are 696347 stf" />
-    <edge source="re 866590 stf" target="are 696263 stf" />
-    <edge source="re 866590 stf" target="ai 842478 stf" />
-    <edge source="are 891473 stf" target="hc 261604 stj" />
-    <edge source="are 891473 stf" target="ai 841690 stf" />
-    <edge source="are 891473 stf" target="are 639228 stf" />
-    <edge source="are 891473 stf" target="ai 786044 stf" />
-    <edge source="are 891473 stf" target="hc 110974 stf" />
-    <edge source="are 891473 stf" target="hc 118714 stf" />
-    <edge source="are 891473 stf" target="re 550505 stf" />
-    <edge source="are 891473 stf" target="sum. stf" />
-    <edge source="are 891473 stf" target="hc 116767 stf" />
-    <edge source="are 891473 stf" target="ai 847452 stf" />
-    <edge source="are 891473 stf" target="ai 805701 stf" />
-    <edge source="are 891473 stf" target="re 140370 stf" />
-    <edge source="hc 126560 stf" target="sum. stf" />
-    <edge source="hc 126560 stf" target="hc 85185 stf" />
-    <edge source="hc 126560 stf" target="hc 79776 stf" />
-    <edge source="hc 126560 stf" target="hc 88229 stf" />
-    <edge source="hc 126560 stf" target="hc 85826 stf" />
-    <edge source="hc 126560 stf" target="hc 79748 stf" />
-    <edge source="hc 126560 stf" target="hc 54663 stj" />
-    <edge source="hc 126560 stf" target="hc 79775 stf" />
-    <edge source="hc 126560 stf" target="hc 84014 stf" />
-    <edge source="hc 126560 stf" target="rhc 54663 stj" />
-    <edge source="hc 126560 stf" target="hc 79238 stf" />
-    <edge source="hc 126560 stf" target="hc 86213 stf" />
-    <edge source="are 851536 stf" target="rhc 106346 stf" />
-    <edge source="are 851536 stf" target="rhc 91553 stf" />
-    <edge source="are 851536 stf" target="hc 261604 stj" />
-    <edge source="are 851536 stf" target="ai 805701 stf" />
-    <edge source="are 851536 stf" target="ai 847452 stf" />
-    <edge source="are 851536 stf" target="sum. stf" />
-    <edge source="are 851536 stf" target="hc 110974 stf" />
-    <edge source="are 851536 stf" target="hc 118714 stf" />
-    <edge source="are 851536 stf" target="hc 96072 stf" />
-    <edge source="are 851536 stf" target="hc 116767 stf" />
-    <edge source="are 851536 stf" target="hc 104206 stf" />
-    <edge source="are 851536 stf" target="ai 841690 stf" />
-    <edge source="are 851536 stf" target="re 550505 stf" />
-    <edge source="are 851536 stf" target="ai 786044 stf" />
-    <edge source="are 851536 stf" target="rhc 90197 stf" />
-    <edge source="rcl 8853 stf" target="adi 1662 stf" />
-    <edge source="rcl 8853 stf" target="hc 81632 stf" />
-    <edge source="rcl 8853 stf" target="sum. stf" />
-    <edge source="rcl 8853 stf" target="rcl 6811 stf" />
-    <edge source="rcl 8853 stf" target="rcl 2732 stf" />
-    <edge source="rcl 8853 stf" target="rcl 3314 stf" />
-    <edge source="rcl 8853 stf" target="rcl 17153 stf" />
-    <edge source="rcl 8853 stf" target="ms 26384 stf" />
-    <edge source="rcl 8853 stf" target="rcl 16419 stf" />
-    <edge source="rcl 8853 stf" target="rcl 8668 stf" />
-    <edge source="rcl 8853 stf" target="hc 91089 stf" />
-    <edge source="rcl 8853 stf" target="rcl 1852 stf" />
-    <edge source="rcl 8853 stf" target="rcl 4535 stf" />
-    <edge source="rcl 8853 stf" target="ms 27405 stf" />
-    <edge source="rcl 8853 stf" target="rcl 15969 stj" />
-    <edge source="rcl 8853 stf" target="rcl 4049 stf" />
-    <edge source="rcl 8853 stf" target="pet 2515 stf" />
-    <edge source="rcl 8853 stf" target="rcl 5754 stf" />
-    <edge source="rcl 8853 stf" target="ao 1 stf" />
-    <edge source="rcl 8853 stf" target="hc 84078 stf" />
-    <edge source="rcl 8853 stf" target="rcl 4733 stf" />
-    <edge source="rcl 8853 stf" target="adi 1127 stf" />
-    <edge source="rcl 8853 stf" target="rcl 9584 stf" />
-    <edge source="rcl 8853 stf" target="hc 96539 stf" />
-    <edge source="rcl 8853 stf" target="hc 90707 stf" />
-    <edge source="rcl 8853 stf" target="hc 119477 stj" />
-    <edge source="rcl 8853 stf" target="rcl 4703 stf" />
-    <edge source="rcl 8853 stf" target="hc 35820 stj" />
-    <edge source="rcl 8853 stf" target="adi 1002 stf" />
-    <edge source="rcl 8853 stf" target="rcl 5826 stf" />
-    <edge source="rcl 8853 stf" target="hc 116384 stf" />
-    <edge source="rcl 8853 stf" target="rcl 14267 stf" />
-    <edge source="rcl 8853 stf" target="aco 808 stf" />
-    <edge source="rcl 8853 stf" target="rcl 5192 stf" />
-    <edge source="rcl 8853 stf" target="rcl 4756 stf" />
-    <edge source="rcl 8853 stf" target="adi 1105 stf" />
-    <edge source="re 641320 stf" target="hc 72643 stf" />
-    <edge source="re 641320 stf" target="adi 2087 stf" />
-    <edge source="re 641320 stf" target="adi 5240 stf" />
-    <edge source="re 641320 stf" target="mi 712 stf" />
-    <edge source="re 641320 stf" target="mi 543 stf" />
-    <edge source="re 641320 stf" target="hc 76930 stf" />
-    <edge source="re 641320 stf" target="re 592581 stf" />
-    <edge source="re 641320 stf" target="adi 1344 stf" />
-    <edge source="re 641320 stf" target="adi 3046 stf" />
-    <edge source="re 641320 stf" target="mi 283 stf" />
-    <edge source="re 641320 stf" target="mc 2332 stj" />
-    <edge source="re 641320 stf" target="adpf 347 stf" />
-    <edge source="re 641320 stf" target="adi 3324 stf" />
-    <edge source="re 641320 stf" target="ms 22307 stj" />
-    <edge source="re 641320 stf" target="hc 75299 stf" />
-    <edge source="re 641320 stf" target="hc 93596 stf" />
-    <edge source="re 641320 stf" target="hc 13526 stj" />
-    <edge source="re 641320 stf" target="adi 2596 stf" />
-    <edge source="re 641320 stf" target="mi 670 stf" />
-    <edge source="re 641320 stf" target="com 15 stj" />
-    <edge source="re 641320 stf" target="hc 48629 stj" />
-    <edge source="re 641320 stf" target="adi 1668 stf" />
-    <edge source="re 641320 stf" target="rms 22307 stf" />
-    <edge source="re 641320 stf" target="adi 1797 stf" />
-    <edge source="re 641320 stf" target="adi 2652 stf" />
-    <edge source="re 641320 stf" target="adi 1946 stf" />
-    <edge source="re 641320 stf" target="pet 3388 stf" />
-    <edge source="re 641320 stf" target="hc 82959 stf" />
-    <edge source="re 641320 stf" target="hc 13897 stj" />
-    <edge source="re 641320 stf" target="re 405579 stf" />
-    <edge source="re 641320 stf" target="adi 1127 stf" />
-    <edge source="re 641320 stf" target="sum. stj" />
-    <edge source="re 641320 stf" target="hc 66806 stf" />
-    <edge source="re 641320 stf" target="adi 2209 stf" />
-    <edge source="re 641320 stf" target="hc 94526 stf" />
-    <edge source="re 641320 stf" target="adi 5170 stf" />
-    <edge source="re 641320 stf" target="adi 1105 stf" />
-    <edge source="re 641320 stf" target="adi 2332 stf" />
-    <edge source="re 641320 stf" target="adi 2405 stf" />
-    <edge source="re 641320 stf" target="adi 3105 stf" />
-    <edge source="re 641320 stf" target="rhc 18802 stj" />
-    <edge source="re 641320 stf" target="psv 57 stf" />
-    <edge source="re 641320 stf" target="hc 94829 stf" />
-    <edge source="re 641320 stf" target="rhc 65127 stj" />
-    <edge source="re 641320 stf" target="hc 94810 stf" />
-    <edge source="re 641320 stf" target="adpf 54 stf" />
-    <edge source="re 641320 stf" target="sum. vinc. stf" />
-    <edge source="re 641320 stf" target="ao 21 stf" />
-    <edge source="re 641320 stf" target="if 5129 stf" />
-    <edge source="re 641320 stf" target="resp 574511 stj" />
-    <edge source="re 641320 stf" target="hc 87985 stf" />
-    <edge source="re 641320 stf" target="mi 708 stf" />
-    <edge source="re 641320 stf" target="hc 110892 stf" />
-    <edge source="re 641320 stf" target="re 580252 stf" />
-    <edge source="hc 122791 stf" target="hc 82625 stf" />
-    <edge source="hc 122791 stf" target="resp 1208525 stj" />
-    <edge source="hc 122791 stf" target="hc 110438 stf" />
-    <edge source="hc 122791 stf" target="hc 99452 stf" />
-    <edge source="hc 122791 stf" target="com 40 stj" />
-    <edge source="hc 122791 stf" target="hc 92839 stf" />
-    <edge source="hc 122791 stf" target="hc 111076 stf" />
-    <edge source="hc 122791 stf" target="resp 1411 stj" />
-    <edge source="hc 122791 stf" target="hc 115893 stf" />
-    <edge source="hc 122791 stf" target="hc 150038 stf" />
-    <edge source="hc 122791 stf" target="hc 84097 stf" />
-    <edge source="hc 122791 stf" target="hc 109043 stf" />
-    <edge source="hc 122791 stf" target="ms 1 stj" />
-    <edge source="hc 122791 stf" target="ms 40 stj" />
-    <edge source="hc 122791 stf" target="hc 72658 stf" />
-    <edge source="hc 122791 stf" target="resp 1390977 stj" />
-    <edge source="hc 122791 stf" target="ms 11343 stj" />
-    <edge source="hc 122791 stf" target="hc 115787 stf" />
-    <edge source="hc 122791 stf" target="ao 16 stf" />
-    <edge source="hc 122791 stf" target="ms 4 stj" />
-    <edge source="hc 122791 stf" target="hc 92776 stf" />
-    <edge source="hc 122791 stf" target="hc 180104 stj" />
-    <edge source="hc 122791 stf" target="sum. stf" />
-    <edge source="hc 122791 stf" target="hc 92870 stf" />
-    <edge source="inq 3983 stf" target="inq 3719 stf" />
-    <edge source="inq 3983 stf" target="as 67 stf" />
-    <edge source="inq 3983 stf" target="re 213937 stf" />
-    <edge source="inq 3983 stf" target="pet 5245 stf" />
-    <edge source="inq 3983 stf" target="ac 3865 stf" />
-    <edge source="inq 3983 stf" target="inq 3507 stf" />
-    <edge source="inq 3983 stf" target="hc 116653 stf" />
-    <edge source="inq 3983 stf" target="ac 4044 stf" />
-    <edge source="inq 3983 stf" target="inq 2191 stf" />
-    <edge source="inq 3983 stf" target="rcl 22009 stf" />
-    <edge source="inq 3983 stf" target="hc 127483 stf" />
-    <edge source="inq 3983 stf" target="hc 87324 stf" />
-    <edge source="inq 3983 stf" target="inq 2606 stf" />
-    <edge source="inq 3983 stf" target="inq 1769 stf" />
-    <edge source="inq 3983 stf" target="rhc 27628 stj" />
-    <edge source="inq 3983 stf" target="ap 470 stf" />
-    <edge source="inq 3983 stf" target="inq 3276 stf" />
-    <edge source="inq 3983 stf" target="hc 79244 stf" />
-    <edge source="inq 3983 stf" target="ap 305 stf" />
-    <edge source="inq 3983 stf" target="inq 3113 stf" />
-    <edge source="inq 3983 stf" target="hc 94034 stf" />
-    <edge source="inq 3983 stf" target="rcl 21419 stf" />
-    <edge source="inq 3983 stf" target="inq 3515 stf" />
-    <edge source="inq 3983 stf" target="se 7 stj" />
-    <edge source="inq 3983 stf" target="inq 672 stf" />
-    <edge source="inq 3983 stf" target="com 2 stj" />
-    <edge source="inq 3983 stf" target="adi 1021 stf" />
-    <edge source="inq 3983 stf" target="hc 79812 stf" />
-    <edge source="inq 3983 stf" target="ap 465 stf" />
-    <edge source="inq 3983 stf" target="inq 3966 stf" />
-    <edge source="inq 3983 stf" target="ap 853 stf" />
-    <edge source="inq 3983 stf" target="sum. vinc. stf" />
-    <edge source="inq 3983 stf" target="hc 126022 stf" />
-    <edge source="inq 3983 stf" target="hc 75226 stf" />
-    <edge source="inq 3983 stf" target="inq 1622 stf" />
-    <edge source="inq 3983 stf" target="ao 4 stf" />
-    <edge source="inq 3983 stf" target="hc 94387 stf" />
-    <edge source="inq 3983 stf" target="rcl 7913 stj" />
-    <edge source="inq 3983 stf" target="hc 73371 stf" />
-    <edge source="inq 3983 stf" target="pet 5700 stj" />
-    <edge source="inq 3983 stf" target="are 766977 stf" />
-    <edge source="hc 125969 stf" target="hc 103282 stf" />
-    <edge source="hc 125969 stf" target="hc 312269 stj" />
-    <edge source="hc 125969 stf" target="hc 114867 stf" />
-  </graph>
-</graphml>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="ai 717821 stf"/>
+<node id="hc 85185 stf"/>
+<node id="sum. 356 stf"/>
+<node id="ai 842478 stf"/>
+<node id="hc 112130 stf"/>
+<node id="re 550505 stf"/>
+<node id="hc 312525 stj"/>
+<node id="hc 126046 stf"/>
+<node id="hc 131924 stf"/>
+<node id="hc 86213 stf"/>
+<node id="ai 802331 stf"/>
+<node id="hc 138561 stf"/>
+<node id="rhc 54663 stj"/>
+<node id="sum. 282 stf"/>
+<node id="hc 79238 stf"/>
+<node id="ai 786044 stf"/>
+<node id="are 772836 stf"/>
+<node id="hc 88229 stf"/>
+<node id="hc 99174 stf"/>
+<node id="hc 79748 stf"/>
+<node id="hc 118 stj"/>
+<node id="hc 118714 stf"/>
+<node id="hc 54663 stj"/>
+<node id="rhc 61038 stj"/>
+<node id="sum. 283 stf"/>
+<node id="hc 90902 stf"/>
+<node id="are 696263 stf"/>
+<node id="hc 134889 stf"/>
+<node id="ai 847452 stf"/>
+<node id="hc 116767 stf"/>
+<node id="are 992478 stf"/>
+<node id="re 998092 stf"/>
+<node id="hc 79775 stf"/>
+<node id="hc 79776 stf"/>
+<node id="are 790511 stf"/>
+<node id="hc 356596 stj"/>
+<node id="hc 312379 stj"/>
+<node id="hc 125969 stf"/>
+<node id="hc 261604 stj"/>
+<node id="are 881117 stf"/>
+<node id="are 823822 stf"/>
+<node id="hc 135405 stf"/>
+<node id="hc 312269 stj"/>
+<node id="hc 129734 stf"/>
+<node id="are 696347 stf"/>
+<node id="sum. 279 stf"/>
+<node id="hc 122229 stf"/>
+<node id="sum. 691 stf"/>
+<node id="hc 84014 stf"/>
+<node id="hc 61038 stj"/>
+<node id="rhc 59567 stj"/>
+<node id="aresp 728759 stj"/>
+<node id="hc 85826 stf"/>
+<node id="are 891473 stf"/>
+<node id="hc 130037 stf"/>
+<node id="hc 126560 stf"/>
+<node id="hc 103282 stf"/>
+<node id="hc 132454 stf"/>
+<node id="hc 114867 stf"/>
+<node id="re 236395 stf"/>
+<node id="hc 126559 stf"/>
+<node id="hc 320145 stj"/>
+<node id="sum. 297 stf"/>
+<node id="sum. 284 stf"/>
+<node id="ai 742460 stf"/>
+<node id="re 140370 stf"/>
+<node id="are 691595 stf"/>
+<node id="ai 841690 stf"/>
+<node id="rhc 69809 stj"/>
+<node id="ai 805701 stf"/>
+<node id="hc 108778 stf"/>
+<node id="hc 85155 stf"/>
+<node id="re 866590 stf"/>
+<node id="hc 105501 stf"/>
+<node id="hc 104167 stf"/>
+<node id="hc 110974 stf"/>
+<node id="are 776423 stf"/>
+<node id="sum. 287 stf"/>
+<node id="are 748371 stf"/>
+<node id="are 639228 stf"/>
+<node id="hc 126409 stf"/>
+<edge source="hc 126046 stf" target="hc 312379 stj"/>
+<edge source="hc 126046 stf" target="hc 114867 stf"/>
+<edge source="hc 126046 stf" target="hc 103282 stf"/>
+<edge source="hc 131924 stf" target="hc 320145 stj"/>
+<edge source="hc 138561 stf" target="hc 99174 stf"/>
+<edge source="hc 138561 stf" target="hc 112130 stf"/>
+<edge source="hc 138561 stf" target="hc 108778 stf"/>
+<edge source="hc 138561 stf" target="hc 105501 stf"/>
+<edge source="hc 138561 stf" target="hc 104167 stf"/>
+<edge source="hc 138561 stf" target="hc 90902 stf"/>
+<edge source="hc 138561 stf" target="aresp 728759 stj"/>
+<edge source="hc 134889 stf" target="sum. 691 stf"/>
+<edge source="hc 134889 stf" target="hc 356596 stj"/>
+<edge source="are 992478 stf" target="hc 118 stj"/>
+<edge source="are 992478 stf" target="sum. 356 stf"/>
+<edge source="are 992478 stf" target="sum. 284 stf"/>
+<edge source="are 992478 stf" target="ai 742460 stf"/>
+<edge source="are 992478 stf" target="sum. 279 stf"/>
+<edge source="are 992478 stf" target="sum. 283 stf"/>
+<edge source="are 992478 stf" target="are 790511 stf"/>
+<edge source="are 992478 stf" target="sum. 282 stf"/>
+<edge source="are 992478 stf" target="hc 132454 stf"/>
+<edge source="re 998092 stf" target="sum. 356 stf"/>
+<edge source="re 998092 stf" target="sum. 279 stf"/>
+<edge source="re 998092 stf" target="are 776423 stf"/>
+<edge source="re 998092 stf" target="sum. 282 stf"/>
+<edge source="re 998092 stf" target="re 236395 stf"/>
+<edge source="re 998092 stf" target="are 772836 stf"/>
+<edge source="re 998092 stf" target="are 748371 stf"/>
+<edge source="hc 125969 stf" target="hc 312269 stj"/>
+<edge source="hc 125969 stf" target="hc 114867 stf"/>
+<edge source="hc 125969 stf" target="hc 103282 stf"/>
+<edge source="are 881117 stf" target="hc 122229 stf"/>
+<edge source="are 881117 stf" target="are 823822 stf"/>
+<edge source="are 881117 stf" target="hc 116767 stf"/>
+<edge source="are 881117 stf" target="hc 85155 stf"/>
+<edge source="are 881117 stf" target="hc 110974 stf"/>
+<edge source="are 881117 stf" target="hc 261604 stj"/>
+<edge source="are 881117 stf" target="hc 118714 stf"/>
+<edge source="hc 135405 stf" target="rhc 69809 stj"/>
+<edge source="hc 129734 stf" target="rhc 61038 stj"/>
+<edge source="hc 129734 stf" target="hc 61038 stj"/>
+<edge source="hc 129734 stf" target="hc 126409 stf"/>
+<edge source="are 891473 stf" target="are 639228 stf"/>
+<edge source="are 891473 stf" target="hc 118714 stf"/>
+<edge source="are 891473 stf" target="sum. 287 stf"/>
+<edge source="are 891473 stf" target="sum. 297 stf"/>
+<edge source="are 891473 stf" target="re 140370 stf"/>
+<edge source="are 891473 stf" target="re 550505 stf"/>
+<edge source="are 891473 stf" target="ai 841690 stf"/>
+<edge source="are 891473 stf" target="ai 847452 stf"/>
+<edge source="are 891473 stf" target="ai 805701 stf"/>
+<edge source="are 891473 stf" target="hc 110974 stf"/>
+<edge source="are 891473 stf" target="hc 261604 stj"/>
+<edge source="are 891473 stf" target="hc 116767 stf"/>
+<edge source="are 891473 stf" target="ai 786044 stf"/>
+<edge source="hc 130037 stf" target="rhc 59567 stj"/>
+<edge source="hc 126560 stf" target="hc 79748 stf"/>
+<edge source="hc 126560 stf" target="hc 54663 stj"/>
+<edge source="hc 126560 stf" target="hc 85185 stf"/>
+<edge source="hc 126560 stf" target="sum. 691 stf"/>
+<edge source="hc 126560 stf" target="hc 84014 stf"/>
+<edge source="hc 126560 stf" target="hc 85826 stf"/>
+<edge source="hc 126560 stf" target="hc 86213 stf"/>
+<edge source="hc 126560 stf" target="hc 79775 stf"/>
+<edge source="hc 126560 stf" target="hc 79776 stf"/>
+<edge source="hc 126560 stf" target="rhc 54663 stj"/>
+<edge source="hc 126560 stf" target="hc 79238 stf"/>
+<edge source="hc 126560 stf" target="hc 88229 stf"/>
+<edge source="hc 126559 stf" target="hc 79748 stf"/>
+<edge source="hc 126559 stf" target="hc 54663 stj"/>
+<edge source="hc 126559 stf" target="hc 85185 stf"/>
+<edge source="hc 126559 stf" target="sum. 691 stf"/>
+<edge source="hc 126559 stf" target="hc 84014 stf"/>
+<edge source="hc 126559 stf" target="hc 85826 stf"/>
+<edge source="hc 126559 stf" target="hc 86213 stf"/>
+<edge source="hc 126559 stf" target="hc 79775 stf"/>
+<edge source="hc 126559 stf" target="hc 79776 stf"/>
+<edge source="hc 126559 stf" target="rhc 54663 stj"/>
+<edge source="hc 126559 stf" target="hc 79238 stf"/>
+<edge source="hc 126559 stf" target="hc 88229 stf"/>
+<edge source="re 866590 stf" target="ai 842478 stf"/>
+<edge source="re 866590 stf" target="ai 802331 stf"/>
+<edge source="re 866590 stf" target="are 696263 stf"/>
+<edge source="re 866590 stf" target="sum. 279 stf"/>
+<edge source="re 866590 stf" target="are 696347 stf"/>
+<edge source="re 866590 stf" target="ai 717821 stf"/>
+<edge source="re 866590 stf" target="are 691595 stf"/>
+<edge source="hc 126409 stf" target="hc 312525 stj"/>
+</graph></graphml>

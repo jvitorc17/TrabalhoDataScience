@@ -1,0 +1,34 @@
+{
+    "adi 3677 stf": [
+        "ao 70 stf"
+    ], 
+    "adi 3660 stf": [
+        "ao 70 stf"
+    ], 
+    "hc 86000 stf": [
+        "inq 2 stf", 
+        "hc 84768 stf"
+    ], 
+    "adi 3614 stf": [
+        "ao 144 stf", 
+        "ao 70 stf"
+    ], 
+    "rhc 88330 stf": [
+        "hc 82199 stf", 
+        "hc 80179 stf", 
+        "hc 82684 stf", 
+        "hc 88330 stj", 
+        "hc 83704 stf", 
+        "hc 83856 stf", 
+        "hc 82 stj", 
+        "hc 83157 stf"
+    ], 
+    "adi 3484 stf": [
+        "ao 70 stf", 
+        "adc 12 stf"
+    ], 
+    "hc 87719 stf": [
+        "hc 51982 stj", 
+        "adpf 54 stf"
+    ]
+}

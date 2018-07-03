@@ -1,0 +1,636 @@
+{
+    "20060605 adi 3677 stf": [
+        "ao 70 stf"
+    ], 
+    "20170321 are 1014615 stf": [
+        "adi 2646 stf", 
+        "re 336267 stf", 
+        "re 444565 stf", 
+        "re 421271 stf", 
+        "ai 258067 stf", 
+        "re 415517 stf", 
+        "adi 3751 stf", 
+        "re 501913 stf", 
+        "re 334868 stf", 
+        "re 461217 stf", 
+        "re 396541 stf", 
+        "adi 2857 stf", 
+        "re 371887 stf", 
+        "re 592477 stf", 
+        "re 243975 stf", 
+        "re 353350 stf", 
+        "re 601206 stf", 
+        "re 369425 stf", 
+        "re 396970 stf"
+    ], 
+    "20001205 rhc 80562 stf": [
+        "hc 80562 stj"
+    ], 
+    "20071030 hc 90617 stf": [
+        "hc 85237 stf", 
+        "hc 84420 stf", 
+        "hc 84816 stf", 
+        "hc 85298 stf", 
+        "hc 83263 stf", 
+        "ap 259 stf", 
+        "hc 86618 stf", 
+        "hc 85679 stf", 
+        "hc 77784 stf"
+    ], 
+    "20150924 hc 129734 stf": [
+        "hc 126409 stf", 
+        "rhc 61038 stj", 
+        "hc 61038 stj"
+    ], 
+    "20060605 adi 3660 stf": [
+        "ao 70 stf"
+    ], 
+    "20120426 hc 113037 stf": [
+        "resp 78334 stj", 
+        "resp 578585 stj"
+    ], 
+    "20030627 hc 83227 stf": [
+        "hc 21476 stj"
+    ], 
+    "20060620 hc 87719 stf": [
+        "hc 51982 stj", 
+        "adpf 54 stf"
+    ], 
+    "20170605 rcl 27107 stf": [
+        "sum. 7 stj", 
+        "aresp 784917 stj", 
+        "sum. 7 stj"
+    ], 
+    "20081030 ai 676991 stf": [
+        "ai 406566 stf", 
+        "hc 77371 stf", 
+        "ai 562241 stf"
+    ], 
+    "20170207 are 998902 stf": [
+        "hc 68658 stf", 
+        "re 559742 stf", 
+        "hc 66954 stf", 
+        "hc 82050 stf", 
+        "ai 709068 stf", 
+        "hc 73721 stf", 
+        "sum. 279 stf", 
+        "hc 74562 stf"
+    ], 
+    "20140411 are 782603 stf": [
+        "hc 110404 stf", 
+        "hc 107769 stf", 
+        "sum. 279 stf", 
+        "rhc 116205 stf", 
+        "rhc 115219 stf", 
+        "hc 104075 stf"
+    ], 
+    "20130301 hc 116767 stf": [
+        "hc 261604 stj", 
+        "hc 261604 stj", 
+        "hc 101822 stf"
+    ], 
+    "20080613 hc 95010 stf": [
+        "hc 59641 stj", 
+        "hc 73686 stf", 
+        "hc 72424 stf", 
+        "hc 70193 stf"
+    ], 
+    "20060425 adi 3484 stf": [
+        "ao 70 stf", 
+        "adc 12 stf"
+    ], 
+    "20040304 hc 84025 stf": [
+        "hc 32159 stj"
+    ], 
+    "20170406 hc 142011 stf": [
+        "rhc 133974 stf", 
+        "hc 118065 stf", 
+        "hc 136452 stf", 
+        "rhc 69809 stj", 
+        "hc 134957 stf", 
+        "sum. 21 stf", 
+        "rhc 136311 stf", 
+        "hc 119597 stf", 
+        "hc 98290 stf"
+    ], 
+    "20090702 hc 99724 stf": [
+        "hc 76347 stf", 
+        "hc 79238 stf", 
+        "hc 135558 stj", 
+        "hc 79775 stf", 
+        "sum. 691 stf", 
+        "hc 79776 stf", 
+        "sum. 691 stf", 
+        "hc 79748 stf"
+    ], 
+    "20171106 hc 148703 stf": [
+        "hc 417895 stj", 
+        "hc 417895 stj"
+    ], 
+    "20160803 hc 135405 stf": [
+        "rhc 69809 stj"
+    ], 
+    "20170630 hc 142011 stf": [
+        "rhc 119231 stf", 
+        "hc 137265 stf", 
+        "hc 118438 stf", 
+        "ms 28097 stf", 
+        "hc 107629 stf"
+    ], 
+    "20150512 re 866590 stf": [
+        "ai 717821 stf", 
+        "ai 802331 stf", 
+        "sum. 279 stf", 
+        "ai 842478 stf", 
+        "are 691595 stf", 
+        "are 696263 stf", 
+        "sum. 279 stf", 
+        "are 696347 stf"
+    ], 
+    "20110809 ext 1155 stf": [
+        "sum. 421 stf", 
+        "ppe 612 stf", 
+        "com 4 stj", 
+        "ext 1178 stf", 
+        "ext 1201 stf"
+    ], 
+    "20080527 ai 632877 stf": [
+        "ai 649191 stf", 
+        "ai 622527 stf", 
+        "sum. 279 stf"
+    ], 
+    "20171016 hc 147521 stf": [
+        "hc 339460 stj"
+    ], 
+    "20170807 are 1016114 stf": [
+        "ai 664567 stf", 
+        "sum. 287 stf"
+    ], 
+    "20091204 hc 87114 stf": [
+        "hc 42975 stj", 
+        "hc 87 stj"
+    ], 
+    "20040415 inq 1622 stf": [
+        "ap 368 stf"
+    ], 
+    "20050729 adpf 79 stf": [
+        "adpf 33 stf", 
+        "pet 2875 stf", 
+        "sum. 339 stf", 
+        "ao 1894 stf", 
+        "sum. 280 stf", 
+        "ro 161 stj", 
+        "adpf 46 stf", 
+        "re 402517 stf", 
+        "adpf 54 stf"
+    ], 
+    "20140409 hc 121603 stf": [
+        "hc 290183 stj", 
+        "hc 119039 stf", 
+        "hc 101004 stf", 
+        "sum. 691 stf"
+    ], 
+    "20141203 are 852331 stf": [
+        "sum. 284 stf", 
+        "ai 718993 stf", 
+        "ai 746303 stf", 
+        "ai 744686 stf", 
+        "ai 838930 stf", 
+        "ai 713692 stf", 
+        "ai 705593 stf", 
+        "sum. 284 stf", 
+        "sum. 279 stf"
+    ], 
+    "20011016 rhc 80757 stf": [
+        "sum. 524 stf", 
+        "hc 10745 stj", 
+        "hc 80757 stj", 
+        "as 22 stf"
+    ], 
+    "20130502 are 727723 stf": [
+        "ai 741535 stf", 
+        "ai 703803 stf", 
+        "sum. 279 stf", 
+        "sum. 280 stf", 
+        "sum. 279 stf", 
+        "re 590964 stf", 
+        "re 718807 stf"
+    ], 
+    "20020326 hc 81685 stf": [
+        "hc 16996 stj", 
+        "hc 2 stj", 
+        "hc 2 stf"
+    ], 
+    "20140204 hc 120830 stf": [
+        "hc 263174 stj", 
+        "hc 263174 stj", 
+        "sum. 691 stf"
+    ], 
+    "20051206 rhc 87243 stf": [
+        "hc 81421 stf", 
+        "hc 87243 stj", 
+        "hc 69603 stf", 
+        "hc 82959 stf", 
+        "hc 69657 stf", 
+        "hc 1 stf", 
+        "hc 69377 stf", 
+        "hc 76991 stf", 
+        "hc 86109 stf", 
+        "hc 84422 stf", 
+        "hc 43862 stj", 
+        "hc 2 stj"
+    ], 
+    "20160912 hc 131924 stf": [
+        "hc 320145 stj"
+    ], 
+    "20121213 re 589919 stf": [
+        "ai 622527 stf", 
+        "hc 107780 stf", 
+        "ai 651927 stf", 
+        "sum. 279 stf", 
+        "ai 603952 stf", 
+        "ai 649191 stf", 
+        "ai 664567 stf", 
+        "ai 563028 stf", 
+        "ai 562809 stf"
+    ], 
+    "20170529 hc 129673 stf": [
+        "rhc 54663 stj", 
+        "hc 54663 stj"
+    ], 
+    "20130827 hc 116767 stf": [
+        "hc 261604 stj", 
+        "hc 261604 stj"
+    ], 
+    "20080520 ai 621999 stf": [
+        "ai 649191 stf", 
+        "sum. 356 stf", 
+        "sum. 282 stf", 
+        "sum. 279 stf", 
+        "sum. 279 stf", 
+        "ai 622527 stf"
+    ], 
+    "20070619 hc 90617 stf": [
+        "hc 87164 stf", 
+        "hc 81149 stf", 
+        "hc 75069 stf", 
+        "hc 85400 stf", 
+        "hc 81472 stf", 
+        "hc 86522 stf", 
+        "hc 76381 stf", 
+        "hc 84095 stf", 
+        "hc 89196 stf", 
+        "hc 89248 stf", 
+        "hc 71436 stf", 
+        "hc 86346 stf", 
+        "hc 87913 stf", 
+        "hc 83804 stf", 
+        "hc 86850 stf", 
+        "hc 91634 stf", 
+        "hc 81914 stf", 
+        "inq 2 stf"
+    ], 
+    "20100831 ai 676991 stf": [
+        "ai 406566 stf", 
+        "hc 77371 stf", 
+        "ai 562241 stf"
+    ], 
+    "20040420 hc 83583 stf": [
+        "sum. 704 stf", 
+        "hc 79212 stf", 
+        "hc 69325 stf"
+    ], 
+    "20150218 hc 126560 stf": [
+        "hc 79238 stf", 
+        "hc 79775 stf", 
+        "hc 84014 stf", 
+        "hc 54663 stj", 
+        "hc 86213 stf", 
+        "hc 79776 stf", 
+        "hc 88229 stf", 
+        "rhc 54663 stj", 
+        "hc 85185 stf", 
+        "sum. 691 stf", 
+        "hc 54663 stj", 
+        "hc 85826 stf", 
+        "hc 79748 stf"
+    ], 
+    "20161013 hc 130037 stf": [
+        "rhc 59567 stj"
+    ], 
+    "20120920 ai 839502 stf": [
+        "ai 764366 stf", 
+        "sum. 356 stf", 
+        "sum. 282 stf", 
+        "ai 413963 stf", 
+        "ai 593514 stf", 
+        "re 265185 stf", 
+        "ai 806149 stf", 
+        "sum. 279 stf", 
+        "are 675958 stf", 
+        "re 140370 stf", 
+        "sum. 279 stf", 
+        "ai 508678 stf", 
+        "ai 242317 stf", 
+        "sum. 636 stf", 
+        "re 445964 stf"
+    ], 
+    "20150213 hc 126046 stf": [
+        "hc 312379 stj", 
+        "hc 114867 stf", 
+        "hc 103282 stf"
+    ], 
+    "20080416 hc 94311 stf": [
+        "hc 90232 stf", 
+        "hc 90716 stf", 
+        "hc 89970 stf", 
+        "hc 86560 stf", 
+        "hc 102813 stj", 
+        "hc 10435 stj", 
+        "sum. 691 stf", 
+        "hc 90602 stf", 
+        "hc 89675 stf"
+    ], 
+    "20090526 hc 97479 stf": [
+        "hc 84439 stf"
+    ], 
+    "20150305 re 866590 stf": [
+        "ai 717821 stf", 
+        "ai 802331 stf", 
+        "sum. 279 stf", 
+        "ai 842478 stf", 
+        "are 691595 stf", 
+        "are 696263 stf", 
+        "sum. 279 stf", 
+        "are 696347 stf"
+    ], 
+    "20140925 hc 124315 stf": [
+        "hc 110055 stf", 
+        "sum. 21 stj", 
+        "hc 118568 stf", 
+        "hc 106991 stf", 
+        "sum. 64 stf", 
+        "sum. 64 stj", 
+        "hc 106158 stf", 
+        "sum. 21 stf", 
+        "rhc 116944 stf"
+    ], 
+    "20170825 hc 131924 stf": [
+        "hc 320145 stj", 
+        "hc 320145 stj"
+    ], 
+    "20030410 rcl 2256 stf": [
+        "adi 1610 stf", 
+        "rp 94 stj", 
+        "adi 154 stf", 
+        "adi 1730 stf", 
+        "adi 1244 stf", 
+        "adc 4 stf", 
+        "rp 1391 stf", 
+        "re 168277 stf", 
+        "adc 4 stf", 
+        "adi 1730 stf", 
+        "adi 656 stf", 
+        "adi 596 stf", 
+        "pet 1404 stf", 
+        "rcl 1880 stf", 
+        "rcl 1507 stf", 
+        "rcl 1507 stf", 
+        "adi 1244 stf"
+    ], 
+    "20160610 hc 134889 stf": [
+        "sum. 691 stf", 
+        "hc 356596 stj", 
+        "sum. 691 stf", 
+        "hc 356596 stj"
+    ], 
+    "20040810 hc 84326 stf": [
+        "hc 80199 stf", 
+        "hc 77784 stf", 
+        "hc 81005 stf", 
+        "hc 74281 stf", 
+        "hc 82880 stf", 
+        "hc 83263 stf"
+    ], 
+    "20170824 hc 146457 stf": [
+        "hc 407287 stj", 
+        "hc 407287 stj"
+    ], 
+    "20110922 ai 844105 stf": [
+        "sum. 356 stf", 
+        "ai 808361 stf", 
+        "sum. 282 stf", 
+        "sum. 7 stj", 
+        "re 596682 stf", 
+        "sum. 279 stf"
+    ], 
+    "20100705 hc 104285 stf": [
+        "hc 70193 stf"
+    ], 
+    "20150218 hc 126559 stf": [
+        "hc 79238 stf", 
+        "rhc 54663 stj", 
+        "hc 79775 stf", 
+        "hc 84014 stf", 
+        "hc 86213 stf", 
+        "hc 79776 stf", 
+        "hc 88229 stf", 
+        "rhc 54663 stj", 
+        "hc 85826 stf", 
+        "sum. 691 stf", 
+        "hc 54663 stj", 
+        "hc 85185 stf", 
+        "hc 79748 stf"
+    ], 
+    "20131107 ai 622001 stf": [
+        "ai 649191 stf", 
+        "sum. 284 stf", 
+        "sum. 282 stf", 
+        "sum. 356 stf", 
+        "sum. 279 stf", 
+        "sum. 284 stf", 
+        "are 737174 stf", 
+        "ai 622527 stf", 
+        "sum. 279 stf"
+    ], 
+    "20020905 hc 81991 stf": [
+        "rhc 66070 stj"
+    ], 
+    "20121121 hc 115807 stf": [
+        "hc 95840 stf", 
+        "hc 90162 stf", 
+        "hc 92264 stf", 
+        "sum. 691 stf", 
+        "hc 90312 stf", 
+        "hc 112643 stf", 
+        "hc 84514 stf", 
+        "hc 257921 stj", 
+        "hc 90654 stf", 
+        "sum. 691 stf", 
+        "hc 86997 stf"
+    ], 
+    "20150617 are 881117 stf": [
+        "hc 116767 stf", 
+        "hc 261604 stj", 
+        "hc 122229 stf", 
+        "hc 118714 stf", 
+        "hc 85155 stf", 
+        "are 823822 stf", 
+        "hc 110974 stf"
+    ], 
+    "20100813 re 627255 stf": [
+        "adi 1275 stf", 
+        "adi 2329 stf", 
+        "adi 2857 stf", 
+        "adi 2417 stf"
+    ], 
+    "20170623 are 1055206 stf": [
+        "sum. 279 stf"
+    ], 
+    "20060925 adi 3614 stf": [
+        "ao 144 stf", 
+        "ao 70 stf"
+    ], 
+    "20160920 hc 126409 stf": [
+        "hc 312525 stj"
+    ], 
+    "20160920 are 992478 stf": [
+        "sum. 356 stf", 
+        "sum. 282 stf", 
+        "sum. 284 stf", 
+        "ai 742460 stf", 
+        "are 790511 stf", 
+        "sum. 283 stf", 
+        "hc 132454 stf", 
+        "hc 118 stj", 
+        "sum. 279 stf"
+    ], 
+    "20080212 hc 93283 stf": [
+        "hc 72865 stf", 
+        "hc 87571 stf", 
+        "hc 84981 stf", 
+        "hc 85704 stf", 
+        "es 3 stf", 
+        "rhc 67267 stj", 
+        "hc 85156 stf"
+    ], 
+    "20140812 hc 123437 stf": [
+        "hc 45599 stj", 
+        "mc 22885 stj", 
+        "sum. 691 stf"
+    ], 
+    "20061212 hc 86000 stf": [
+        "inq 2 stf", 
+        "hc 84768 stf"
+    ], 
+    "20150213 hc 125969 stf": [
+        "hc 114867 stf", 
+        "hc 103282 stf", 
+        "hc 312269 stj"
+    ], 
+    "20161201 hc 138561 stf": [
+        "hc 112130 stf", 
+        "hc 105501 stf", 
+        "hc 90902 stf", 
+        "hc 104167 stf", 
+        "hc 99174 stf", 
+        "hc 108778 stf", 
+        "aresp 728759 stj"
+    ], 
+    "20170925 hc 129734 stf": [
+        "rhc 61038 stj"
+    ], 
+    "20080520 ai 622001 stf": [
+        "ai 649191 stf", 
+        "sum. 356 stf", 
+        "sum. 282 stf", 
+        "sum. 279 stf", 
+        "sum. 279 stf", 
+        "ai 622527 stf"
+    ], 
+    "20170504 are 1016240 stf": [
+        "sum. 284 stf", 
+        "sum. 282 stf", 
+        "sum. 287 stf", 
+        "are 665255 stf", 
+        "sum. 279 stf", 
+        "sum. 284 stf", 
+        "sum. 282 stf", 
+        "sum. 279 stf", 
+        "ai 763915 stf", 
+        "sum. 287 stf"
+    ], 
+    "20060815 rhc 88330 stf": [
+        "hc 82199 stf", 
+        "hc 80179 stf", 
+        "hc 82684 stf", 
+        "hc 88330 stj", 
+        "hc 83704 stf", 
+        "hc 83856 stf", 
+        "hc 82 stj", 
+        "hc 83157 stf"
+    ], 
+    "20090507 ai 747772 stf": [
+        "sum. 288 stf"
+    ], 
+    "20041214 hc 84935 stf": [
+        "hc 83458 stf", 
+        "hc 84 stf", 
+        "hc 84 stj", 
+        "rhc 82288 stf", 
+        "hc 82004 stf", 
+        "hc 30483 stj", 
+        "hc 77723 stf", 
+        "sum. 696 stf", 
+        "hc 75343 stf"
+    ], 
+    "20170828 are 1036616 stf": [
+        "re 626436 stf", 
+        "sum. 279 stf", 
+        "hc 70193 stf"
+    ], 
+    "20150803 are 891473 stf": [
+        "re 140370 stf", 
+        "hc 116767 stf", 
+        "hc 261604 stj", 
+        "ai 805701 stf", 
+        "sum. 287 stf", 
+        "ai 841690 stf", 
+        "ai 847452 stf", 
+        "hc 118714 stf", 
+        "sum. 297 stf", 
+        "sum. 287 stf", 
+        "ai 786044 stf", 
+        "are 639228 stf", 
+        "re 550505 stf", 
+        "hc 110974 stf"
+    ], 
+    "20050513 ai 542358 stf": [
+        "sum. 454 stf"
+    ], 
+    "20030902 hc 83227 stf": [
+        "hc 21476 stj", 
+        "com 21 stj", 
+        "hc 74666 stf", 
+        "hc 80325 stf"
+    ], 
+    "20161104 re 998092 stf": [
+        "sum. 356 stf", 
+        "sum. 282 stf", 
+        "re 236395 stf", 
+        "are 748371 stf", 
+        "are 772836 stf", 
+        "sum. 279 stf", 
+        "are 776423 stf"
+    ], 
+    "20121214 rhc 115997 stf": [
+        "hc 83250 stf", 
+        "hc 84935 stf", 
+        "sum. 696 stf", 
+        "hc 218785 stj", 
+        "ap 634 stf"
+    ], 
+    "20171013 re 1072029 stf": [
+        "resp 1669 stj"
+    ]
+}
